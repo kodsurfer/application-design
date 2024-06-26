@@ -1,0 +1,4 @@
+github.com/go-chi/chi/v5 v5.0.14 h1:PyEwo2Vudraa0x/Wl6eDRRW2NXBvekgfxyydcM0WGE0=
+github.com/go-chi/chi/v5 v5.0.14/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/uchitsa/ubiquitous-octo-train v0.0.0-20240619160240-7dde0e6b0fe4 h1:MPscDsEFui45V3K4h75ydCpGPc8dVhF0NaMCehsNlEQ=
+github.com/uchitsa/ubiquitous-octo-train v0.0.0-20240619160240-7dde0e6b0fe4/go.mod h1:937z4gWoeBUXg1hhFh2QVY5OO/kWwGCUdA1jNJwUhUk=
