@@ -3,7 +3,6 @@ package main
 import (
 	"log"
 	"net/http"
-	"os"
 
 	"github.com/kodsurfer/application-design/internal/app"
 
@@ -20,6 +19,5 @@ func main() {
 	err := http.ListenAndServe(":8080", r)
 	if err != nil {
 		log.Fatalf("Server failed: %s", err)
-		os.Exit(1)
 	}
 }
